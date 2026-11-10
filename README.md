@@ -26,7 +26,6 @@ The skill was born from a real incident: someone asked their AI assistant for a 
 
 The file is plain markdown and works with any assistant that supports instruction files or skills:
 
-- **Thaura**: Customize › Skills › add skill (name + description from below, body = SKILL.md).
 - **Claude / Claude Code**: drop it in as a skill or paste it into `CLAUDE.md` / project instructions.
 - **ChatGPT / others**: paste the body into custom instructions or a project instruction file, or reference it at the start of a session.
 
